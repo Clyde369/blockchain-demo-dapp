@@ -1,0 +1,16 @@
+.sidebar {
+   border-radius: 20%;
+   margin: 3px;
+   -webkit-border-radius: 20%;
+   -moz-border-radius: 20%;
+   -ms-border-radius: 20%;
+   -o-border-radius: 20%;
+}
+.sidebar:hover {
+   border: 1px solid #3002ff;
+}
+
+.hamburger-menu{
+   color: blue;
+   font-size: 1.5rem;
+}
