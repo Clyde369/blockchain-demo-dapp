@@ -5,13 +5,15 @@
   box-shadow: none;
 }
 
+
+
 .navbar-toggler:focus {
   outline: none;
   box-shadow: none;
 }
 
 .btn-success:focus{
-  outline: none;
+    outline: none;
   box-shadow: none;
 }
 
