@@ -40,9 +40,6 @@ const Sidebar = () => {
                         <li><a class="dropdown-item" href="/">Something else here</a></li>
                      </ul>
                   </li>
-                  <li class="nav-item">
-                     <a class="nav-link disabled">Disabled</a>
-                  </li>
                </ul>
                <form class="d-flex" role="search">
                   <button class="btn btn-success" type="submit">Search</button>
