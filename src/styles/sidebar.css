@@ -6,27 +6,32 @@
    -ms-border-radius: 20%;
    -o-border-radius: 20%;
 }
-
-button{
-   color:white !important;
-}
-
 .navbarMain{
    color:white!important;
  }
+
+ .nav-button{
+   border: solid 1px black;
+   padding: 5px;
+   border-radius: 35%;
+   -webkit-border-radius: 35%;
+   -moz-border-radius: 35%;
+   -ms-border-radius: 35%;
+   -o-border-radius: 35%;
+}
+
+.nav-button:hover{
+   background-color: rgba(0, 0, 0, 0.096);
+   color: white;
+}
 
 .sidebar:hover {
    border: 1px solid #3002ff;
 }
 .navbar{
-   background-color: rgb(0, 0, 0)!important;
+   color: white;
 }
 
-
-.hamburger-menu-desktop{
-   color:white;
-   font-size: 30px;
-}
 .hamburger-menu{
    color: blue;
    font-size: 1.5rem;
